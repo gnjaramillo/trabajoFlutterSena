@@ -1,0 +1,48 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Diseño de un menú de navegación con Tabs",
+            "cwd": "Diseño de un menú de navegación con Tabs",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Diseño de un menú de navegación con Tabs (profile mode)",
+            "cwd": "Diseño de un menú de navegación con Tabs",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Diseño de un menú de navegación con Tabs (release mode)",
+            "cwd": "Diseño de un menú de navegación con Tabs",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "Menú de navegación en el Home utilizando GridView.builder y Navigator",
+            "cwd": "Menú de navegación en el Home utilizando GridView.builder y Navigator",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Menú de navegación en el Home utilizando GridView.builder y Navigator (profile mode)",
+            "cwd": "Menú de navegación en el Home utilizando GridView.builder y Navigator",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Menú de navegación en el Home utilizando GridView.builder y Navigator (release mode)",
+            "cwd": "Menú de navegación en el Home utilizando GridView.builder y Navigator",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
